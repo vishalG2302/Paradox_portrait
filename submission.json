@@ -1,17 +1,13 @@
 {
-  "prompt": "your full prompt here",
+  "prompt": "A lone figure stands in a vast crowd. Their shadow splits into ten silhouettes. Each of those splits into ten more, filling the horizon with cascading shadows. Everyone else casts only a single small shadow. Surreal, painterly, melancholic. No text, no numbers, no charts.",
   "model": "DALL-E 3",
   "paradox": "The Friendship Paradox",
-  "visual_logic": "max 40 words describing what viewer sees and how it maps to the paradox"
+  "visual_logic": "A lone figure's shadow fractures into exponentially multiplying shadows, while those around cast single shadows — you are always outnumbered by your own connections' connections."
 }
 ```
 
-If anything is missing or the format is wrong, click the file → pencil icon (edit) → fix it → commit.
+**4. Scroll down → click "Commit changes"**
 
----
-
-## Step 4: Submit
-
-Paste this into your assignment submission form, with both URLs separated by a space:
+**5. Wait ~10 seconds, then test this URL in incognito:**
 ```
-https://raw.githubusercontent.com/vishalG2302/Paradox_portrait/main/ChatGPT%20Image%20Mar%2026%2C%202026%2C%2009_12_09%20AM.png  https://raw.githubusercontent.com/vishalG2302/Paradox_portrait/main/submission.json
+https://raw.githubusercontent.com/vishalG2302/Paradox_portrait/main/submission.json
