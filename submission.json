@@ -1,6 +1,6 @@
 {
-  "prompt": "A lone figure stands in a vast crowd. Their shadow splits into ten silhouettes. Each of those splits into ten more, filling the horizon with cascading shadows. Everyone else casts only a single small shadow. Surreal, painterly, melancholic. No text, no numbers, no charts.",
-  "model": "DALL-E 3",
-  "paradox": "The Friendship Paradox",
-  "visual_logic": "A lone figure's shadow fractures into multiplying shadows while others cast one each, embodying how your friends always have more friends than you."
+  "prompt" : "A lone figure stands in a vast crowd. Their shadow splits into ten silhouettes. Each of those splits into ten more, filling the horizon with cascading shadows. Everyone else casts only a single small shadow. Surreal, painterly, melancholic. No text, no numbers, no charts.",
+  "model" : "DALL-E 3",
+  "paradox" : "The Friendship Paradox",
+  "visual_logic" : "A lone figure's shadow fractures into exponentially multiplying shadows, while those around cast single shadows — you are always outnumbered by your own connections' connections."
 }
