@@ -1,21 +1,17 @@
 {
-  "paradox": "The Friendship Paradox",
+  "prompt": "your full prompt here",
   "model": "DALL-E 3",
-  "prompt": "A surreal oil painting of a lone human figure standing in a vast crowd. The figure casts a shadow made of ten silhouettes. Each of those silhouettes casts a shadow of twenty silhouettes...",
-  "visual_logic": "A lone figure's shadow fractures into exponentially more shadows than those around them, mirroring how each person's friends always outnumber them structurally."
+  "paradox": "The Friendship Paradox",
+  "visual_logic": "max 40 words describing what viewer sees and how it maps to the paradox"
 }
 ```
 
-4. After uploading, click the file → click **Raw** → copy that URL
-   - Image URL will look like: `https://raw.githubusercontent.com/yourusername/repo/main/image.png`
-   - JSON URL: `https://raw.githubusercontent.com/yourusername/repo/main/submission.json`
-
-5. Test both URLs in a **private/incognito browser window** to confirm they're publicly accessible.
+If anything is missing or the format is wrong, click the file → pencil icon (edit) → fix it → commit.
 
 ---
 
 ## Step 4: Submit
 
-Paste both URLs separated by a space:
+Paste this into your assignment submission form, with both URLs separated by a space:
 ```
-https://raw.githubusercontent.com/yourusername/repo/main/image.png  https://raw.githubusercontent.com/yourusername/repo/main/submission.json
+https://raw.githubusercontent.com/vishalG2302/Paradox_portrait/main/ChatGPT%20Image%20Mar%2026%2C%202026%2C%2009_12_09%20AM.png  https://raw.githubusercontent.com/vishalG2302/Paradox_portrait/main/submission.json
