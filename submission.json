@@ -1,0 +1,21 @@
+{
+  "paradox": "The Friendship Paradox",
+  "model": "DALL-E 3",
+  "prompt": "A surreal oil painting of a lone human figure standing in a vast crowd. The figure casts a shadow made of ten silhouettes. Each of those silhouettes casts a shadow of twenty silhouettes...",
+  "visual_logic": "A lone figure's shadow fractures into exponentially more shadows than those around them, mirroring how each person's friends always outnumber them structurally."
+}
+```
+
+4. After uploading, click the file → click **Raw** → copy that URL
+   - Image URL will look like: `https://raw.githubusercontent.com/yourusername/repo/main/image.png`
+   - JSON URL: `https://raw.githubusercontent.com/yourusername/repo/main/submission.json`
+
+5. Test both URLs in a **private/incognito browser window** to confirm they're publicly accessible.
+
+---
+
+## Step 4: Submit
+
+Paste both URLs separated by a space:
+```
+https://raw.githubusercontent.com/yourusername/repo/main/image.png  https://raw.githubusercontent.com/yourusername/repo/main/submission.json
